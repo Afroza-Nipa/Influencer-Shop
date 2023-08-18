@@ -52,3 +52,46 @@ font-size: 20px;
  }
 
 /*navber style end here */
+
+/*banner style start here */
+
+
+.banner-section{
+    width:1200px  ;
+    display: flex;
+    margin:0 auto;
+    justify-content: center;
+    align-items: center;
+ margin-top: 30px;
+    gap: 20px;
+
+  
+}
+.banner-section h1{
+    font-size: 60px; 
+  color: #3A3A3A ; }
+
+.banner-section p{
+    font-size: 15px;
+    color: #3A3A3A   ;
+ font-stretch: 20px;
+ text-align: justify;
+ font-weight: 600;
+ line-height: 20px;
+}
+
+
+
+button{
+    background-color:#E02C6D ;
+    height: 40px;
+    width: 150px ;
+    padding: 15px 24px;
+    border:none;
+    border-radius: 30px;
+    color:white ;
+    font-size: 15px;
+}
+
+
+/*banner style end here */
